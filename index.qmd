@@ -1,6 +1,5 @@
 ---
 title: "Guo Cheng"
-email: "garychengguo@gmail.com"
 about:
   template: jolla
   image: profile.jpg
@@ -14,4 +13,5 @@ about:
 ---
 
 Aloha! I am a Ph.D. student in Economics at Brown University.
+
 My interests are in in Game Theory, Mechanism Design, and Behavioral Economics.

@@ -1,6 +1,5 @@
 ---
 title: "Guo Cheng"
-email: "garychengguo@gmail.com"
 about:
   template: trestles
   image: profile.jpg
@@ -16,6 +15,10 @@ about:
 I grew up in Wuhan, China, where I completed my high school. Then I went to London School of Economics and Political Science for undergrad and Columbia University for master's.
 
 During the 4.5 years of studying economics, I took particular interests in microeconomic theory. I love to study the application of game theory, information design, and mechanism design in real-world frameworks.
+
+## Email
+
+garychengguo at gmail dot com
 
 ## Education
 

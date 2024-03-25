@@ -1,5 +1,5 @@
 ---
 title: Research with Professor Qingmin Liu
 author: Guo Cheng
-date: "2022.02 - 2022.06"
+date: "2022.02"
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Research With Professor Navin Kartik"
 author: Guo Cheng
-date: "2022.07 - 2022.12"
+date: "2022.07"
 ---
