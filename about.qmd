@@ -1,29 +1,26 @@
 ---
-title: "Simone"
+title: "Guo Cheng"
 about:
   template: trestles
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://garyguocheng.github.io
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/guo-cheng/
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+I am a first year Ph.D. student in Economics at Brown University. I am interested in Game Theory, Mechanism Design, and Behavioral Economics.
 
 ## Education
 
-Where I studied
+Ph.D in Economics, Brown University, 2023.09 - Present
+Master of Arts in Economics, Columbia University, 2021.08 - 2022.12
+Bachelor of Science in Economics, London School of Economics and Political Science, 2017.09 - 2020.06
 
 ## Experience
 
-What I've done
+Research Assistant with Professor Qingmin Liu, Columbia University, 2022.02 - 2022.06
+Research With Professor Navin Kartik, Columbia University, 2022.07 - 2022.12
