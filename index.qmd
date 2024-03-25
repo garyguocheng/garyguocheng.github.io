@@ -1,15 +1,17 @@
 ---
 title: "Guo Cheng"
+email: "garychengguo@gmail.com"
 about:
   template: jolla
   image: profile.jpg
   links:
     - icon: github
       text: Github
-      href: https://garyguocheng.github.io
+      href: https://github.com/garyguocheng
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/guo-cheng/
 ---
 
-Aloha! I am a Ph.D. student in Economics at Brown University. My interests are in in Game Theory, Mechanism Design, and Behavioral Economics.
+Aloha! I am a Ph.D. student in Economics at Brown University.
+My interests are in in Game Theory, Mechanism Design, and Behavioral Economics.

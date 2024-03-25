@@ -1,9 +1,5 @@
 ---
-title: "My First Project"
-author: Simone
-date: "February 28, 2024"
+title: Research with Professor Qingmin Liu
+author: Guo Cheng
+date: "2022.02 - 2022.06"
 ---
-
-A description of my project.
-
-Could include a photo, or links, or anything at all!

@@ -1,26 +1,29 @@
 ---
 title: "Guo Cheng"
+email: "garychengguo@gmail.com"
 about:
   template: trestles
   image: profile.jpg
   links:
     - icon: github
       text: Github
-      href: https://garyguocheng.github.io
+      href: https://github.com/garyguocheng
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/guo-cheng/
 ---
 
-I am a first year Ph.D. student in Economics at Brown University. I am interested in Game Theory, Mechanism Design, and Behavioral Economics.
+I grew up in Wuhan, China, where I completed my high school. Then I went to London School of Economics and Political Science for undergrad and Columbia University for master's.
+
+During the 4.5 years of studying economics, I took particular interests in microeconomic theory. I love to study the application of game theory, information design, and mechanism design in real-world frameworks.
 
 ## Education
 
-Ph.D in Economics, Brown University, 2023.09 - Present
-Master of Arts in Economics, Columbia University, 2021.08 - 2022.12
-Bachelor of Science in Economics, London School of Economics and Political Science, 2017.09 - 2020.06
+- Ph.D in Economics, Brown University, 2023.09 - Present
+- Master of Arts in Economics, Columbia University, 2021.08 - 2022.12
+- Bachelor of Science in Economics, London School of Economics and Political Science, 2017.09 - 2020.06
 
 ## Experience
 
-Research Assistant with Professor Qingmin Liu, Columbia University, 2022.02 - 2022.06
-Research With Professor Navin Kartik, Columbia University, 2022.07 - 2022.12
+- Research Assistant with Professor Qingmin Liu, Columbia University, 2022.02 - 2022.06
+- Research With Professor Navin Kartik, Columbia University, 2022.07 - 2022.12
